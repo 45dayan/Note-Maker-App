@@ -1,16 +1,23 @@
-# React + Vite
+# 📝 NoteMaker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NoteMaker is a sleek, minimalist note-taking application built to help you capture ideas the moment they strike. It’s fast, responsive, and keeps your data safe right in your browser.
 
-Currently, two official plugins are available:
+## ✨ Key Features
+* **Stay Organized**: Create, edit, and delete notes effortlessly.
+* **Never Lose a Thought**: Automatic saving to `localStorage` means your notes are there even if you refresh the page.
+* **Find it Fast**: Built-in real-time search to filter through your thoughts instantly.
+* **Works Anywhere**: Fully responsive design that looks great on phones, tablets, and desktops.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Built With
+* **React** (Vite)
+* **JavaScript** (ES6+)
+* **CSS3** (Flexbox & Grid)
+* **Local Storage API**
 
-## React Compiler
+## 🚀 Quick Start
+1. Clone this project.
+2. Run `npm install` to set up dependencies.
+3. Run `npm run dev` to launch the app locally.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+*Developed with ❤️ by Dayan Shah*
