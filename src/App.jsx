@@ -1,5 +1,5 @@
 import './App.css'
-import NoteMaker from './Components/Notemaker'
+import NoteMaker from './Components/notemaker'
 function App() {
   return (
     <>
