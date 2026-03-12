@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./NoteMaker.css";
+import "./notemaker.css";
 
 const NoteMaker = () => {
   const [notes, setNotes] = useState(() => {
